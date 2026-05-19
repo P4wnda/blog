@@ -12,5 +12,6 @@ Most posts are written for my future self first, but if they help someone else u
 
 You can also find my tools here:
 
-- [Pentest Cheatsheet](/pentest/) - quick commands, variables, notes, and run export.
+- [Pentest Cheatsheet](/pentest/) - quick commands, variables, notes, tracking, and JSON run export.
 - [CTF Checklists](/checklists/) - standalone and Active Directory checklists linked to cheatsheet commands.
+- [Reporting Tool](/reporting-tool/) - vulnerability findings and report exports built from cheatsheet run JSON.
